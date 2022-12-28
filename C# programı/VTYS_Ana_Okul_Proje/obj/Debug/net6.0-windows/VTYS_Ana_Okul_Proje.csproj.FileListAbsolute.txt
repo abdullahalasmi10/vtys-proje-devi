@@ -1,0 +1,44 @@
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\bin\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.exe
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\bin\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.deps.json
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\bin\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.runtimeconfig.json
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\bin\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.dll
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\bin\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.pdb
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\bin\Debug\net6.0-windows\Npgsql.dll
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.csproj.AssemblyReference.cache
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.Ogretmen_btn.resources
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.Form2.resources
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.csproj.GenerateResource.cache
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.AssemblyInfoInputs.cache
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.AssemblyInfo.cs
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.csproj.CoreCompileInputs.cache
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.csproj.CopyComplete
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.dll
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\refint\VTYS_Ana_Okul_Proje.dll
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.pdb
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.genruntimeconfig.cache
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\ref\VTYS_Ana_Okul_Proje.dll
+E:\DATABASEALSHEHABI\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.Form3.resources
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\bin\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.exe
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\bin\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.deps.json
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\bin\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.runtimeconfig.json
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\bin\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.dll
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\bin\Debug\net6.0-windows\ref\VTYS_Ana_Okul_Proje.dll
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\bin\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.pdb
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.csproj.AssemblyReference.cache
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.Ogretmen_btn.resources
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.Form2.resources
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.Form3.resources
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.csproj.GenerateResource.cache
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.AssemblyInfoInputs.cache
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.AssemblyInfo.cs
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.csproj.CoreCompileInputs.cache
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.csproj.CopyComplete
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.dll
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\ref\VTYS_Ana_Okul_Proje.dll
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.pdb
+C:\Users\المتميز للاتصالات\Desktop\VTYS_Ana_Okul_Proje\VTYS_Ana_Okul_Proje\obj\Debug\net6.0-windows\VTYS_Ana_Okul_Proje.genruntimeconfig.cache

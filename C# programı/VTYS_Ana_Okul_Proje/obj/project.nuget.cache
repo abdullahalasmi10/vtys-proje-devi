@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dEsO7teOAQ5ZCUk0qFi7WaUuYwbROMi0rxb8tCeYGPzahWqLy8VPIkHXDNtoasAqWOpBmjJZYYsTwTutP5/kLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\المتميز للاتصالات\\Desktop\\VTYS_Ana_Okul_Proje\\VTYS_Ana_Okul_Proje\\VTYS_Ana_Okul_Proje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\المتميز للاتصالات\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\المتميز للاتصالات\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\المتميز للاتصالات\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
